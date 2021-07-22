@@ -1,0 +1,30 @@
+{"metric": {"SpanFPreRecMetric": {"f": 0.765416, "pre": 0.730139, "rec": 0.804275}, "label_acc": {"acc": 0.918503}, "step": 383, "epoch": 1}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.810731, "pre": 0.780363, "rec": 0.843558}, "label_acc": {"acc": 0.918146}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.850115, "pre": 0.835052, "rec": 0.865731}, "label_acc": {"acc": 0.935853}, "step": 766, "epoch": 2}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.878342, "pre": 0.860506, "rec": 0.896933}, "label_acc": {"acc": 0.940464}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.882623, "pre": 0.86671, "rec": 0.899132}, "label_acc": {"acc": 0.9473}, "step": 1149, "epoch": 3}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.904748, "pre": 0.892069, "rec": 0.917791}, "label_acc": {"acc": 0.950662}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.907244, "pre": 0.890605, "rec": 0.924516}, "label_acc": {"acc": 0.951836}, "step": 1532, "epoch": 4}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.917343, "pre": 0.899234, "rec": 0.936196}, "label_acc": {"acc": 0.946689}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.913329, "pre": 0.897999, "rec": 0.929192}, "label_acc": {"acc": 0.951476}, "step": 1915, "epoch": 5}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.91936, "pre": 0.905413, "rec": 0.933742}, "label_acc": {"acc": 0.946954}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.921311, "pre": 0.904701, "rec": 0.938544}, "label_acc": {"acc": 0.957307}, "step": 2298, "epoch": 6}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.932326, "pre": 0.918452, "rec": 0.946626}, "label_acc": {"acc": 0.958808}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.926524, "pre": 0.914174, "rec": 0.939212}, "label_acc": {"acc": 0.961195}, "step": 2681, "epoch": 7}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.932765, "pre": 0.925166, "rec": 0.940491}, "label_acc": {"acc": 0.961258}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.932187, "pre": 0.923329, "rec": 0.941216}, "label_acc": {"acc": 0.967243}, "step": 3447, "epoch": 9}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.934591, "pre": 0.926976, "rec": 0.942331}, "label_acc": {"acc": 0.962583}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.934399, "pre": 0.931607, "rec": 0.937208}, "label_acc": {"acc": 0.967459}, "step": 4213, "epoch": 11}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.944461, "pre": 0.944751, "rec": 0.944172}, "label_acc": {"acc": 0.964238}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.934567, "pre": 0.924787, "rec": 0.944556}, "label_acc": {"acc": 0.964363}, "step": 4979, "epoch": 13}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.942038, "pre": 0.936893, "rec": 0.947239}, "label_acc": {"acc": 0.963642}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.937335, "pre": 0.925733, "rec": 0.949232}, "label_acc": {"acc": 0.963211}, "step": 5362, "epoch": 14}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.944834, "pre": 0.938825, "rec": 0.95092}, "label_acc": {"acc": 0.967219}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.939032, "pre": 0.931624, "rec": 0.94656}, "label_acc": {"acc": 0.967603}, "step": 6128, "epoch": 16}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.940603, "pre": 0.934059, "rec": 0.947239}, "label_acc": {"acc": 0.966623}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.939687, "pre": 0.9375, "rec": 0.941884}, "label_acc": {"acc": 0.967747}, "step": 6894, "epoch": 18}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.944411, "pre": 0.940389, "rec": 0.948466}, "label_acc": {"acc": 0.965099}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.944426, "pre": 0.940981, "rec": 0.947896}, "label_acc": {"acc": 0.97041}, "step": 7277, "epoch": 19}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.948334, "pre": 0.945155, "rec": 0.951534}, "label_acc": {"acc": 0.970066}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.945901, "pre": 0.939974, "rec": 0.951904}, "label_acc": {"acc": 0.973434}, "step": 18767, "epoch": 49}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.948239, "pre": 0.946789, "rec": 0.949693}, "label_acc": {"acc": 0.966026}}}}

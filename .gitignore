@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+NeuralSegmentation/
+bert-chinese-wwm/
+data/
+model/
+
+.fitlog/
+.fitconfig
+
+log/
+cache_clue/
+cache_resume/
+cache_weibo/
+cache_duie/

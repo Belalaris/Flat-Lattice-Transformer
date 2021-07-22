@@ -1,0 +1,30 @@
+{"metric": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "label_acc": {"acc": 0.93278}, "step": 135, "epoch": 1}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "label_acc": {"acc": 0.927275}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.005128, "pre": 1.0, "rec": 0.002571}, "label_acc": {"acc": 0.932918}, "step": 270, "epoch": 2}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.0, "pre": 0.0, "rec": 0.0}, "label_acc": {"acc": 0.92741}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.085586, "pre": 0.345455, "rec": 0.048843}, "label_acc": {"acc": 0.93541}, "step": 405, "epoch": 3}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.113924, "pre": 0.482143, "rec": 0.064593}, "label_acc": {"acc": 0.931121}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.15812, "pre": 0.468354, "rec": 0.095116}, "label_acc": {"acc": 0.936933}, "step": 540, "epoch": 4}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.172485, "pre": 0.608696, "rec": 0.100478}, "label_acc": {"acc": 0.93274}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.172566, "pre": 0.619048, "rec": 0.100257}, "label_acc": {"acc": 0.939702}, "step": 675, "epoch": 5}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.17119, "pre": 0.672131, "rec": 0.098086}, "label_acc": {"acc": 0.934764}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.353167, "pre": 0.69697, "rec": 0.236504}, "label_acc": {"acc": 0.947664}, "step": 810, "epoch": 6}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.266667, "pre": 0.654206, "rec": 0.167464}, "label_acc": {"acc": 0.938811}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.480892, "pre": 0.631799, "rec": 0.388175}, "label_acc": {"acc": 0.953063}, "step": 1080, "epoch": 8}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.413249, "pre": 0.606481, "rec": 0.313397}, "label_acc": {"acc": 0.946165}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.550232, "pre": 0.689922, "rec": 0.457584}, "label_acc": {"acc": 0.958809}, "step": 1890, "epoch": 14}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.423963, "pre": 0.592275, "rec": 0.330144}, "label_acc": {"acc": 0.94576}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.613372, "pre": 0.705686, "rec": 0.542416}, "label_acc": {"acc": 0.958463}, "step": 2025, "epoch": 15}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.509972, "pre": 0.630282, "rec": 0.42823}, "label_acc": {"acc": 0.948054}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.627995, "pre": 0.616337, "rec": 0.640103}, "label_acc": {"acc": 0.963171}, "step": 2430, "epoch": 18}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.571776, "pre": 0.581683, "rec": 0.562201}, "label_acc": {"acc": 0.949066}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.662338, "pre": 0.669291, "rec": 0.655527}, "label_acc": {"acc": 0.966078}, "step": 2970, "epoch": 22}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.580153, "pre": 0.619565, "rec": 0.545455}, "label_acc": {"acc": 0.95453}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.673602, "pre": 0.681579, "rec": 0.66581}, "label_acc": {"acc": 0.969955}, "step": 4050, "epoch": 30}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.646766, "pre": 0.673575, "rec": 0.62201}, "label_acc": {"acc": 0.963435}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.686203, "pre": 0.653488, "rec": 0.722365}, "label_acc": {"acc": 0.969124}, "step": 4185, "epoch": 31}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.656325, "pre": 0.654762, "rec": 0.657895}, "label_acc": {"acc": 0.964042}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.689207, "pre": 0.697368, "rec": 0.681234}, "label_acc": {"acc": 0.970786}, "step": 4725, "epoch": 35}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.670886, "pre": 0.712366, "rec": 0.633971}, "label_acc": {"acc": 0.966538}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.725248, "pre": 0.699284, "rec": 0.753213}, "label_acc": {"acc": 0.969193}, "step": 4860, "epoch": 36}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.661939, "pre": 0.654206, "rec": 0.669856}, "label_acc": {"acc": 0.964042}}}}
